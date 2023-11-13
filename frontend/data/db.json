@@ -1,0 +1,24 @@
+{
+  "mydata": [
+    {
+      "title": "tv",
+      "price": 250,
+      "id": 2
+    },
+    {
+      "title": "PS5",
+      "price": 700,
+      "id": 4
+    },
+    {
+      "title": "food",
+      "price": 50,
+      "id": 6
+    },
+    {
+      "title": "dressing",
+      "price": 500,
+      "id": 7
+    }
+  ]
+}
