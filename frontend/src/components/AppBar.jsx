@@ -37,7 +37,7 @@ const AppBarr = ({ drawerWidth,  showDrawer }) => {
         <Typography sx={{ mr: 2 }}>Amamria Ilyess</Typography>
         <Avatar
           alt="Travis Howard"
-          src="https:mui.com/static/images/avatar/2.jpg"
+          src="https://lh3.googleusercontent.com/a/ACg8ocJkKT1oly6oDlTi_SzAMB9EjozhflClBQ3vdwUq8V9PIM4=s288-c-no"
         />
       </Toolbar>
     </AppBar>
